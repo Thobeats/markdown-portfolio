@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My first pic](https://cdn.vox-cdn.com/thumbor/fhQ1uNSU6KmdyQxOsfvznJxGiNQ=/0x0:3000x1943/920x613/filters:focal(637x671:1117x1151):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/64015162/504548846.jpg.0.jpg)
